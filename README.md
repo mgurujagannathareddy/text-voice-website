@@ -187,4 +187,3 @@ Developed as a learning project to understand browser-based AI features and web 
 
 ## 📄 License
 This project is open-source and available for educational purposes.
-
