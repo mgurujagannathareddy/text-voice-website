@@ -165,6 +165,8 @@ The logic and implementation were developed manually for learning purposes.
 Text-To-Speech/
 │
 ├── index.html
+├── styles.css
+├── script.js
 └── README.md
 
 
@@ -187,3 +189,4 @@ Developed as a learning project to understand browser-based AI features and web 
 
 ## 📄 License
 This project is open-source and available for educational purposes.
+
